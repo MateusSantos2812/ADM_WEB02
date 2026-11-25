@@ -1,0 +1,63 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 25/11/2026, 16:16:23
+Missões concluídas: 12 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: AlertaJF
+Tipo: Outro
+Descrição: Site com objetivo em facilitar e orientar a população sobre risco de alagamentos e enxurradas. 
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[✔] 🎭 Persona
+    → Marcos, 37 anos, Motorista de Ônibus Urbano, acesso rápido a um site (app)  para diminuir o risco de enfrentar  alagamento ou enxurrada.
+
+[✔] 🎯 Objetivo SMART
+    → Conseguir atingir ao máximo o publico que esta com seus veículos particulares ou empresariais nas ruas da cidade.
+
+[✔] 🗺️ Jornada do Consumidor
+    → Alta pesquisa para a descoberta de ruas com grande possibilidades de risco, agregar com comentários para que outros motorista sem orientem. 
+
+[✔] 💡 Tópicos de Conteúdo
+    → Pesquisa por riscos de chuvas fortes, alagamentos, enxurradas
+
+[✔] ✍️ Conteúdo (publicação)
+    → Esta pelas ruas? Então faça parte da grande comunidade de alerta a riscos de alagamentos e enxurradas da nossa cidade.
+
+[✔] 📢 Distribuição
+    → Instagram (JF Depressão), blog, Palestras em casos de empresas.
+
+[✔] 🎯 Personalização
+    → Motorista, não corra mais o risco de passar por uma área de alagamento.
+
+[✔] 🔍 SEO
+    → Palavras chaves: Chuvas fortes, alaguemos, deslizamentos, enxurradas, ruas alagadas.
+
+[✔] ❤️ Engajamento
+    → Motorista não ande mais com medo, click em FAZER PARTE e entre para nossa comunidade.
+
+[✔] 🔄 Iteração
+    → Deixe sua avaliação e comentário e agregue informações.
+
+[✔] 🚀 Tendências
+    → Vídeo explicativo sobre o uso do Site (APP)
+
+[✔] 🕵️ Concorrência
+    → Site com intuito de agregar a sociedade.
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: AlertaJF
+URL amigável: https://seusite.com.br/AlertaJF.com
+Meta description: Facilitar a informação sobre risco de chuva na cidade.
+Corpo do conteúdo:
+Motorista, não corra mais o risco de passar por uma área de alagamento, faça parte da nossa comunidade.
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
